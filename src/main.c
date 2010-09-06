@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 #include "usage.h"
+#include "version.h"
 
 int usage(int argc, char **argv)
 {

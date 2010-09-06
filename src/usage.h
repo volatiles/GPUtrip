@@ -1,7 +1,6 @@
 #ifndef __USAGE_H__
 #define __USAGE_H__
 
-#include "version.h"
 static const char *usage_str = \
 "GPUtrip v%s\n" \
 "Usage: %s <options> [target file] <output>\n" \
