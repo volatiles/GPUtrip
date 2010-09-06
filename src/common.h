@@ -1,5 +1,7 @@
-#ifndef __USAGE_H__
-#define __USAGE_H__
+#ifndef __COMMON_H__
+#define __COMMON_H__
+
+#define GPUTRIP_VERSION "NaN"
 
 static const char *usage_str = \
 "GPUtrip v%s\n" \
